@@ -31,7 +31,7 @@ Benim için yazılım geliştirme, sadece bir meslek değil, aynı zamanda bir t
 
 - 📫 **Bana Ulaşın:**
   - **E-posta:** [e-mail](ibrahimsqql@gmail.com)
-  - **LinkedIn:** [linkedin.com/in/ibrahimsql](https://www.linkedin.com/in/ibrahimsql-sql/)
+  - **LinkedIn:** [linkedin.com/in/ibrahimsql](https://www.linkedin.com/in/ibrahimsql-1ba316323/)
 
 - ⚡ **İlginç Bir Gerçek:**
   - Veritabanı sorgularını optimize etmek benim için bir tutku ve güvenlik açıklarını bulmak için saatlerce zaman geçirebilirim!
