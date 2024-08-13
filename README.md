@@ -30,7 +30,7 @@ Benim için yazılım geliştirme, sadece bir meslek değil, aynı zamanda bir t
   - **Pentest ve OSCP:** Pentest süreçleri, OSCP hazırlık stratejileri.
 
 - 📫 **Bana Ulaşın:**
-  - **E-posta:** [e-mail](ibrahimsqql@gmail.com)
+  - **E-posta:** [e-mail](mailto:ibrahimsqql@gmail.com)
   - **LinkedIn:** [linkedin.com/in/ibrahimsql](https://www.linkedin.com/in/ibrahimsql-1ba316323/)
 
 - ⚡ **İlginç Bir Gerçek:**
