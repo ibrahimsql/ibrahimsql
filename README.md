@@ -1,8 +1,8 @@
 # Merhaba, Ben İbrahim 👋
 
-**SQL & Database Uzmanı | Siber Güvenlik, Pentest ve Bug Bounty Tutkunu**
+**Siber Güvenlik, Pentest ve Bug Bounty Tutkunu**
 
-Merhaba! Ben İbrahim, siber güvenlik alanlarında uzmanlaşmış bir yazılım geliştiricisiyim. Veritabanı tasarımı ve optimizasyonu konusunda derin bir bilgiye sahibim ve aynı zamanda siber güvenlikte, özellikle pentest (penetrasyon testi) ve bug bounty (hata ödül programları) alanlarında kendimi geliştirmeye devam ediyorum. GitHub profilimde, üzerinde çalıştığım çeşitli projeleri ve öğrenim sürecimde edindiğim deneyimleri bulabilirsiniz.
+Merhaba! Ben İbrahim, siber güvenlik alanlarında uzmanlaşmış bir yazılım geliştiricisiyim.Siber güvenlikte, özellikle pentest (penetrasyon testi) ve bug bounty (hata ödül programları) alanlarında kendimi geliştirmeye devam ediyorum. GitHub profilimde, üzerinde çalıştığım çeşitli projeleri ve öğrenim sürecimde edindiğim deneyimleri bulabilirsiniz.
 
 ## 🚀 Hakkımda
 
@@ -80,7 +80,6 @@ Bu projede, çeşitli bug bounty platformlarına katılarak güvenlik açıklar�
   
 - **Siber Güvenlik Alanında Derinleşme:** OWASP Top 10 gibi güvenlik standartlarını daha da derinlemesine öğrenerek, web uygulama güvenliği ve pentest konularında uzmanlaşmayı amaçlıyorum. Ayrıca, yeni çıkan güvenlik tehditleri ve savunma teknikleri konusunda sürekli olarak güncel kalmayı hedefliyorum.
 
-- **Büyük Ölçekli Projelerde Çalışma:** Veritabanı yönetimi ve backend geliştirme alanlarında edindiğim bilgi ve tecrübeleri, büyük ölçekli projelerde kullanarak daha fazla deneyim kazanmayı planlıyorum.
 
 - **Siber Güvenlik Topluluğuna Katkı:** Blog yazıları, açık kaynak projeler ve topluluk etkinlikleri aracılığıyla siber güvenlik dünyasında öğrendiklerimi paylaşarak, topluluğa katkıda bulunmayı hedefliyorum.
 
