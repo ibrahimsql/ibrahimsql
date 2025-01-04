@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsql&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsql&layout=compact&langs_count=8)
+
 Cyber Security Engineer & Pentester & Ethical Hacker
 ----------------------------------------------------
 
