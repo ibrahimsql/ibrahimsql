@@ -18,7 +18,7 @@ Cyber Security Engineer & Pentester & Ethical Hacker
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,arch,c,cs,go,kali,linux,py,raspberrypi,ruby,rust,bash,powershell,js,perl,vim,windows,postman,nim,vala,aws,gcp,md,mac,obsidian,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,arch,c,cs,go,kali,linux,py,raspberrypi,ruby,rust,bash,powershell,js,perl,vim,windows,postman,nim,vala,aws,gcp,md,apple,obsidian,lua)](https://skillicons.dev)
 
 ### Socials
 
